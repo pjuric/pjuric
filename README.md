@@ -44,6 +44,9 @@
 [<img align="left" alt="firebase" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/firebase.svg" />][firebase]
 [<img align="left" alt="visualstudiocode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/visualstudiocode.svg" />][visualstudiocode]
 [<img align="left" alt="microsoftoffice" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/microsoftoffice.svg" />][microsoftoffice]
+[<img align="left" alt="adobeillustrator" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobeillustrator.svg" />][adobeillustrator]
+[<img align="left" alt="adobephotoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobephotoshop.svg" />][adobephotoshop]
+[<img align="left" alt="canva" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/canva.svg" />][canva]
 
 
 <br />
@@ -96,6 +99,9 @@
 [firebase]: https://firebase.google.com/
 [visualstudiocode]: https://code.visualstudio.com/
 [microsoftoffice]: https://www.office.com/
+[adobeillustrator]: https://www.adobe.com/products/illustrator.html
+[adobephotoshop]: https://www.adobe.com/products/photoshop.html
+[canva]: https://www.canva.com/hr_hr/
 
 [meals]: http://5meals.vercel.app/
 [cocktails]: https://5cocktails.vercel.app/
