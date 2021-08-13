@@ -17,7 +17,7 @@
 
 <br />
 
-### 💻 Here are just some of the technologies I've used and am familiar with...
+### 💻 Here are some of the technologies I've used and am familiar with...
 
 [<img align="left" alt="html5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/html5.svg" />][html]
 [<img align="left" alt="css3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/css3.svg" />][css]
