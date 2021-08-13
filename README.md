@@ -31,6 +31,7 @@
 [<img align="left" alt="materialui" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/materialui.svg" />][materialui]
 [<img align="left" alt="tailwindcss" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/tailwindcss.svg" />][tailwindcss]
 [<img align="left" alt="bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg" />][bootstrap]
+[<img align="left" alt="jquery" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jquery.svg" />][jquery]
 [<img align="left" alt="adobecreativecloud" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/adobecreativecloud.svg" />][adobecreativecloud]
 [<img align="left" alt="figma" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/figma.svg" />][figma]
 [<img align="left" alt="github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/github.svg" />][github]
@@ -82,6 +83,7 @@
 [materialui]: https://material-ui.com/
 [tailwindcss]: https://tailwindcss.com/
 [bootstrap]: https://getbootstrap.com/
+[jquery]: https://jquery.com/
 [adobecreativecloud]: https://www.adobe.com/creativecloud.html
 [figma]: https://www.figma.com/
 [github]: https://github.com/
