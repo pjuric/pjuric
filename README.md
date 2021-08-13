@@ -24,7 +24,7 @@
 [<img align="left" alt="javascript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/javascript.svg" />][javascript]
 [<img align="left" alt="php" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/php.svg" />][php]
 [<img align="left" alt="mysql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/mysql.svg" />][mysql]
-[<img align="left" alt="react" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/react.svg" />][react]
+[<img align="left" alt="react" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/react.svg" />][react] <br/>
 [<img align="left" alt="next" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/nextdotjs.svg" />][next]
 [<img align="left" alt="sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/sass.svg" />][sass]
 [<img align="left" alt="styledcomponents" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/styledcomponents.svg" />][styledcomponents]
