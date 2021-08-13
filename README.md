@@ -30,6 +30,7 @@
 [<img align="left" alt="styledcomponents" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/styledcomponents.svg" />][styledcomponents]
 [<img align="left" alt="materialui" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/materialui.svg" />][materialui]
 [<img align="left" alt="tailwindcss" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/tailwindcss.svg" />][tailwindcss]
+[<img align="left" alt="bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg" />][bootstrap]
 [<img align="left" alt="adobecreativecloud" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/adobecreativecloud.svg" />][adobecreativecloud]
 [<img align="left" alt="figma" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/figma.svg" />][figma]
 [<img align="left" alt="github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/github.svg" />][github]
@@ -37,6 +38,7 @@
 [<img align="left" alt="npm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/npm.svg" />][npm]
 [<img align="left" alt="yarn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/yarn.svg" />][yarn]
 [<img align="left" alt="redux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/redux.svg" />][redux]
+[<img align="left" alt="json" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/json.svg" />][json]
 [<img align="left" alt="vercel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/vercel.svg" />][vercel]
 [<img align="left" alt="firebase" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/firebase.svg" />][firebase]
 [<img align="left" alt="visualstudiocode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/visualstudiocode.svg" />][visualstudiocode]
@@ -78,6 +80,7 @@
 [styledcomponents]: https://styled-components.com/
 [materialui]: https://material-ui.com/
 [tailwindcss]: https://tailwindcss.com/
+[bootstrap]: https://getbootstrap.com/
 [adobecreativecloud]: https://www.adobe.com/creativecloud.html
 [figma]: https://www.figma.com/
 [github]: https://github.com/
@@ -85,6 +88,7 @@
 [npm]: https://www.npmjs.com/
 [yarn]: https://yarnpkg.com/
 [redux]: https://redux.js.org/
+[json]: https://www.json.org/
 [vercel]: https://vercel.com/
 [firebase]: https://firebase.google.com/
 [visualstudiocode]: https://code.visualstudio.com/
