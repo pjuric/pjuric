@@ -1,7 +1,7 @@
 ### 👋 Hi there. I'm Petar Jurić, IT Student, Web Developer and Tech Enthusiast!
 
 - 🎓 Recently acquired bachelor's degree in <i>Business Information Technology Systems</i>.
-- ✅ Some of my main goals in the next few years are to <b>graduate</b> and build a professional career as a <b>web developer</b>.
+- ✅ Some of my main goals in the next few years are to <b>graduate</b> and thrive professionally as a <b>web developer</b>.
 - 📈 Eager to learn, adapt, develop and progress.
 - 📚 Fluent in Croatian and English. Beginner level and still learning Spanish and German languages.
 - 🔨 Currently working on solo projects, attending online courses, learning new technologies and looking for experience and practice in related IT fields.
