@@ -62,7 +62,7 @@
 [<p>Movies Website</p>][movies]
 [<p>Weather Website</p>][weather]
 
-*All my projects and project codes are available in repositories where each repository represents one of the projects.
+*All my projects and project codes are available in repositories where each repository represents one of the projects.<br/>
 *Some of the projects may be outdated or have defective components due to third party APIs, outdated technologies...
 
 
