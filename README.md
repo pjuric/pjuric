@@ -57,6 +57,7 @@
 
 ### 📺 Latest deployed solo projects
 
+[<p>Tv Shows Website</p>][shows]
 [<p>Meal Recipes Website</p>][meals]
 [<p>Cocktail Recipes Website</p>][cocktails]
 [<p>Movies Website</p>][movies]
@@ -104,6 +105,7 @@
 [adobephotoshop]: https://www.adobe.com/products/photoshop.html
 [canva]: https://www.canva.com/
 
+[shows]: https://5-tv-show.vercel.app/
 [meals]: http://5meals.vercel.app/
 [cocktails]: https://5cocktails.vercel.app/
 [movies]: https://5movies-new.vercel.app/
