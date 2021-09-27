@@ -39,6 +39,7 @@
 [<img align="left" alt="npm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/npm.svg" />][npm]
 [<img align="left" alt="yarn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/yarn.svg" />][yarn]
 [<img align="left" alt="redux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/redux.svg" />][redux]
+[<img align="left" alt="typescript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />][typescript]
 [<img align="left" alt="json" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/json.svg" />][json]
 [<img align="left" alt="vercel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/vercel.svg" />][vercel]
 [<img align="left" alt="firebase" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/firebase.svg" />][firebase]
@@ -63,7 +64,7 @@
 [<p>Movies Website</p>][movies]
 [<p>Weather Website</p>][weather]
 
-*All my projects and project codes are available in repositories where each repository represents one of the projects.<br/>
+*All my projects and project codes are available in repositories.<br/>
 *Some of the projects may be outdated or have defective components due to third party APIs, outdated technologies and libraries...
 
 
@@ -96,6 +97,7 @@
 [npm]: https://www.npmjs.com/
 [yarn]: https://yarnpkg.com/
 [redux]: https://redux.js.org/
+[typescript]: https://www.typescriptlang.org/
 [json]: https://www.json.org/
 [vercel]: https://vercel.com/
 [firebase]: https://firebase.google.com/
