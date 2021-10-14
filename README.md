@@ -4,7 +4,7 @@
 - ✅ Some of my main goals in the next few years are to <b>graduate</b> and thrive professionally as a <b>web developer</b>.
 - 📈 Eager to learn, adapt, develop and progress.
 - 📚 Fluent in Croatian and English. Beginner level and still learning Spanish and German languages.
-- 🔨 Currently working on solo projects, attending online courses, learning new technologies and looking for experience and practice in related IT fields.
+- 🔨 Currently studying for graduate degree, working on solo projects, attending online courses, learning new technologies and looking for experience and practice in related IT fields.
 
 
 ### 💬 Connect with me:
