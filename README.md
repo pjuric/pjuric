@@ -65,7 +65,7 @@
 [<p>Movies Website</p>][movies]
 [<p>Weather Website</p>][weather]
 
-*All my projects and project codes are available in repositories.<br/>
+*For more info and projects check out my repositories.<br/>
 *Some of the projects may be outdated or have defective components due to third party APIs, outdated technologies and libraries...
 
 
