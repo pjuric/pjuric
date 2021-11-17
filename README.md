@@ -41,6 +41,7 @@
 [<img align="left" alt="redux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/redux.svg" />][redux]
 [<img align="left" alt="typescript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />][typescript]
 [<img align="left" alt="json" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/json.svg" />][json]
+[<img align="left" alt="postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postman.svg" />][postman]
 [<img align="left" alt="vercel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/vercel.svg" />][vercel]
 [<img align="left" alt="firebase" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/firebase.svg" />][firebase]
 [<img align="left" alt="visualstudiocode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/visualstudiocode.svg" />][visualstudiocode]
@@ -99,6 +100,7 @@
 [redux]: https://redux.js.org/
 [typescript]: https://www.typescriptlang.org/
 [json]: https://www.json.org/
+[postman]: https://www.postman.com/
 [vercel]: https://vercel.com/
 [firebase]: https://firebase.google.com/
 [visualstudiocode]: https://code.visualstudio.com/
