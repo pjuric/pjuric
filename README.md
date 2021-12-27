@@ -44,6 +44,7 @@
 [<img align="left" alt="postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postman.svg" />][postman]
 [<img align="left" alt="vercel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/vercel.svg" />][vercel]
 [<img align="left" alt="firebase" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/firebase.svg" />][firebase]
+[<img align="left" alt="mongodb" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/mongodb.svg" />][mongodb]
 [<img align="left" alt="visualstudiocode" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/visualstudiocode.svg" />][visualstudiocode]
 [<img align="left" alt="microsoftoffice" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/microsoftoffice.svg" />][microsoftoffice]
 [<img align="left" alt="adobeillustrator" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobeillustrator.svg" />][adobeillustrator]
@@ -103,6 +104,7 @@
 [postman]: https://www.postman.com/
 [vercel]: https://vercel.com/
 [firebase]: https://firebase.google.com/
+[mongodb]: https://www.mongodb.com/
 [visualstudiocode]: https://code.visualstudio.com/
 [microsoftoffice]: https://www.office.com/
 [adobeillustrator]: https://www.adobe.com/products/illustrator.html
