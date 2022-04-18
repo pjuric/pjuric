@@ -26,6 +26,7 @@
 [<img align="left" alt="mysql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/mysql.svg" />][mysql]
 [<img align="left" alt="react" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/react.svg" />][react]
 [<img align="left" alt="next" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/nextdotjs.svg" />][next]
+[<img align="left" alt="wordpress" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/wordpress.svg" />][wordpress]
 [<img align="left" alt="sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/sass.svg" />][sass]
 [<img align="left" alt="styledcomponents" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/styledcomponents.svg" />][styledcomponents]
 [<img align="left" alt="materialui" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.9.0/icons/materialui.svg" />][materialui]
@@ -86,6 +87,7 @@
 [mysql]: https://www.mysql.com/
 [react]: https://reactjs.org/
 [next]: https://nextjs.org/
+[wordpress]: https://wordpress.org/
 [sass]: https://sass-lang.com/
 [styledcomponents]: https://styled-components.com/
 [materialui]: https://material-ui.com/
