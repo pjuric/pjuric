@@ -113,7 +113,7 @@
 [microsoftoffice]: https://www.office.com/
 [adobeillustrator]: https://www.adobe.com/products/illustrator.html
 [adobephotoshop]: https://www.adobe.com/products/photoshop.html
-[canva]: https://www.canva.com/
+[canva]: https://www.canva.com
 
 [shows]: https://5-tv-show.vercel.app/
 [meals]: http://5meals.vercel.app/
