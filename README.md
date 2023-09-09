@@ -103,7 +103,7 @@
 <div align='left'>
 <p>These are just projects I used to learn new technologies:</p>
 
-[<p>📺 <b>Tv Shows Website</b> 📺 </p>][shows]
+<a href="https://5-tv-show.vercel.app/" target="_blank">📺 <b>Tv Shows Website</b> 📺</a>
 [<p>🍴 <b>Meal Recipes Website</b> 🍴</p>][meals]
 [<p>🍹 <b>Cocktail Recipes Website</b> 🍹</p>][cocktails]
 [<p>🎥 <b>Movies Website</b> 🎥</p>][movies]
