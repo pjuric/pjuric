@@ -103,11 +103,16 @@
 <div align='left'>
 <p>These are just projects I used to learn new technologies:</p>
 
-<a href="https://5-tv-show.vercel.app/" target="_blank">📺 <b>Tv Shows Website</b> 📺</a>
-[<p>🍴 <b>Meal Recipes Website</b> 🍴</p>][meals]
-[<p>🍹 <b>Cocktail Recipes Website</b> 🍹</p>][cocktails]
-[<p>🎥 <b>Movies Website</b> 🎥</p>][movies]
-[<p>☁️ <b>Weather Website</b> ☁️</p>][weather]
+[📺 **Tv Shows Website** 📺][shows]
+<br>
+[🍴 **Meal Recipes Website** 🍴][meals]
+<br>
+[🍹 **Cocktail Recipes Website** 🍹][cocktails]
+<br>
+[🎥 **Movies Website** 🎥][movies]
+<br>
+[☁️ **Weather Website** ☁️][weather]
+<br>
 
 <i>
 *Some of these apps might be outdated
