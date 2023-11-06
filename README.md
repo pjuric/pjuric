@@ -139,6 +139,12 @@
 <a href="mailto:juric.petar4@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail: juric.petar4@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=mail />
 </a>
+
+<br>
+
+<a href="https://wa.me/385976384337" target="_blank">
+<img src="https://img.shields.io/badge/whatsapp: +385 97 638 4337-%23EA4335.svg?color=25D366&style=for-the-badge&logo=whatsapp&logoColor=white" alt=whatsapp />
+</a>
 	
 </ul>
 </div>
