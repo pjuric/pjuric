@@ -11,7 +11,7 @@
 
 <br>
 
-- A passionate junior web developer
+- A passionate web developer
 - Fresh IT masters degree graduate
 - Fast learner, adaptable team player, self-motivated developer
 - Committed to continuous learning and staying updated with the latest industry trends
@@ -101,7 +101,6 @@
 ## <b>🚀 How it all started</b>
 <br>
 <div align='left'>
-<p>These are just projects I used to learn new technologies:</p>
 
 [📺 **Tv Shows Website** 📺][shows]
 <br>
