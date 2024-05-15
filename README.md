@@ -114,7 +114,7 @@
 <br>
 
 <i>
-*Some of these apps might be outdated
+*Check out my <a href="https://github.com/pjuric?tab=repositories">repos</a> for more insight and projects
 </i>
 
 <br>
