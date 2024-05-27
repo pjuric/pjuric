@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Petar Jurić </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=50&width=435&lines=Web+Developer;IT+Graduate;Tech+Enthusiast;Motivated+Junior" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=50&width=435&lines=Software+Engineer;IT+Graduate;Tech+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 <br>
@@ -11,7 +11,7 @@
 
 <br>
 
-- A passionate web developer
+- A passionate software engineer
 - Fresh IT masters degree graduate
 - Fast learner, adaptable team player, self-motivated developer
 - Committed to continuous learning and staying updated with the latest industry trends
